@@ -1,0 +1,39 @@
+#
+# requirements.txt
+#
+# run using >> pip install -r requirements.txt
+#
+# Requirements without Version Specifiers
+#--upgrade pip
+#--upgrade setuptools
+#
+# Requirements with Version Specifiers
+# See https://www.python.org/dev/peps/pep-0440/#version-specifiers
+#
+pandas
+scipy
+matplotlib
+gensim
+seaborn
+plotly
+keras
+theano
+bokeh
+pydotplus
+nltk
+wordcloud
+chart_studio
+lightgbm
+xgboost
+sklearn
+watermark
+#basemap
+moviepy
+pandas-datareader
+tensorflow==1.13.1
+#https://download.pytorch.org/whl/cpu/torch-1.0.1-cp37-cp37m-win_amd64.whl
+#torchvision
+#opencv-python
+graphviz
+
+
