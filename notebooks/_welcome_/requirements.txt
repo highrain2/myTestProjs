@@ -19,14 +19,25 @@ plotly
 keras
 theano
 bokeh
+pillow
+pymc3
 pydotplus
 nltk
+smopy
 wordcloud
+geos
+cython
+shapely
+pyshp
+six
+cartopy
 chart_studio
 lightgbm
 xgboost
 sklearn
 watermark
+networkx
+arviz
 #basemap
 moviepy
 pandas-datareader
@@ -37,3 +48,6 @@ tensorflow==1.13.1
 graphviz
 
 
+# Open the Anaconda Prompt, and install the following:
+# conda install -c conda-forge gdal
+# conda install -c conda-forge cartopy
