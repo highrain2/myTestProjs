@@ -15,5 +15,14 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 # References
-This toolbox uses several references, most of which are listed in the files themselves. However, the primary references are:
+This course was built using material from my private industry and acedemic experience, as well as material borrowed from:
+- UCLA ECE 239AS
+- UPenn CIS 229
+- UPenn CIS 520
+- Stanford CS 229
+- Python Data Science Handbook
+- Machine Learning Mastery
+- Towards Data Science
+- Many thanks to Kaggle for the datasets
+- Numerous others that I cannot remember.
 
