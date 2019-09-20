@@ -1,14 +1,17 @@
 #
 # requirements.txt
 #
-# run using >> pip install -r requirements.txt
+# on windows click on start button -> right click on Anaconda Powershell Prompt 
+# and select run as administrator in the commad prompt execute command 
+# >> conda update -n base -c defaults conda
+# Your anaconda should update without admin related errors.
 #
-# Requirements without Version Specifiers
-#--upgrade pip
-#--upgrade setuptools
-#
-# Requirements with Version Specifiers
-# See https://www.python.org/dev/peps/pep-0440/#version-specifiers
+# Then run
+# >> conda update pip
+# >> pip install -r requirements.txt
+# >> conda install -c conda-forge gdal
+# >> conda install -c conda-forge cartopy
+# >> conda install -c conda-forge basemap
 #
 pandas
 scipy
@@ -27,10 +30,8 @@ smopy
 wordcloud
 geos
 cython
-shapely
 pyshp
 six
-cartopy
 chart_studio
 lightgbm
 xgboost
@@ -38,19 +39,11 @@ sklearn
 watermark
 networkx
 arviz
-urllib2
-#basemap
 moviepy
 pandas-datareader
 tabulate
 tensorflow==1.13.1
 tensorboardX
-#https://download.pytorch.org/whl/cpu/torch-1.0.1-cp37-cp37m-win_amd64.whl
-#torchvision
-#opencv-python
+https://download.pytorch.org/whl/cpu/torch-1.0.1-cp37-cp37m-win_amd64.whl
+opencv-python
 graphviz
-
-
-# Open the Anaconda Prompt, and install the following:
-# conda install -c conda-forge gdal
-# conda install -c conda-forge cartopy
