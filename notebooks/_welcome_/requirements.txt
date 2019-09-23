@@ -12,6 +12,7 @@
 # >> conda install -c conda-forge gdal
 # >> conda install -c conda-forge cartopy
 # >> conda install -c conda-forge basemap
+# >> conda install -c conda-forge basemap-data-hires
 #
 pandas
 scipy
