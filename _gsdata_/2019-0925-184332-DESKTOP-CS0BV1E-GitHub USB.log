@@ -1,0 +1,117 @@
+2019-09-25 18:43:54: == Sync Started by User Command
+2019-09-25 18:43:54: Delete File 'F:/GitHub/bootcamp/notebooks/D2_L1_Linear_Algebra/.ipynb_checkpoints/1-Why-Linear-Algebra-checkpoint.ipynb'
+2019-09-25 18:43:54: Delete File 'F:/GitHub/bootcamp/notebooks/D2_L1_Linear_Algebra/.ipynb_checkpoints/2-Background-Removal-with-Robust-PCA-checkpoint.ipynb'
+2019-09-25 18:43:54: Delete File 'F:/GitHub/bootcamp/notebooks/D2_L1_Linear_Algebra/.ipynb_checkpoints/3-Linear-Regression-checkpoint.ipynb'
+2019-09-25 18:43:54: Delete File 'F:/GitHub/bootcamp/notebooks/D2_L2_Exploratory_Data_Analysis/.ipynb_checkpoints/01-Exploratory_data_Analysis-checkpoint.ipynb'
+2019-09-25 18:43:54: Delete File 'F:/GitHub/bootcamp/notebooks/D2_L2_Exploratory_Data_Analysis/.ipynb_checkpoints/02-Data_Cleaning-checkpoint.ipynb'
+2019-09-25 18:43:54: Delete File 'F:/GitHub/bootcamp/notebooks/D2_L2_Exploratory_Data_Analysis/.ipynb_checkpoints/03-Data_Visualization-checkpoint.ipynb'
+2019-09-25 18:43:54: Delete File 'F:/GitHub/bootcamp/notebooks/D2_L2_Exploratory_Data_Analysis/.ipynb_checkpoints/04-Data_and_Models-checkpoint.ipynb'
+2019-09-25 18:43:54: Delete File 'F:/GitHub/bootcamp/notebooks/D2_L2_Exploratory_Data_Analysis/data/kaggle_ForumMessages.csv'
+2019-09-25 18:43:54: Delete File 'F:/GitHub/bootcamp/notebooks/D2_L2_Exploratory_Data_Analysis/data/kaggle_freeFormResponses.csv'
+2019-09-25 18:43:54: Delete File 'F:/GitHub/bootcamp/notebooks/D2_L2_Exploratory_Data_Analysis/data/kaggle_Kernels.csv'
+2019-09-25 18:43:54: Delete File 'F:/GitHub/bootcamp/notebooks/D2_L2_Exploratory_Data_Analysis/data/kaggle_multipleChoiceResponses.csv'
+2019-09-25 18:43:54: Delete File 'F:/GitHub/bootcamp/notebooks/D2_L2_Exploratory_Data_Analysis/data/kaggle_Users.csv'
+2019-09-25 18:43:54: Delete File 'F:/GitHub/bootcamp/notebooks/D2_L3_Model_Validation/.ipynb_checkpoints/Model-Validation-checkpoint.ipynb'
+2019-09-25 18:43:54: Delete Folder 'F:/GitHub/bootcamp/notebooks/D2_L3_Model_Validation/.ipynb_checkpoints'
+2019-09-25 18:43:54: Delete File 'F:/GitHub/bootcamp/notebooks/D2_L4_SciPy/.ipynb_checkpoints/__SciPy_Summary__-checkpoint.ipynb'
+2019-09-25 18:43:54: Delete Folder 'F:/GitHub/bootcamp/notebooks/D2_L4_SciPy/.ipynb_checkpoints'
+2019-09-25 18:43:55: Delete File 'F:/GitHub/bootcamp/notebooks/D3_L3_kMeans_EM_GMM/.ipynb_checkpoints/01-K-Means-and-EM-checkpoint.ipynb'
+2019-09-25 18:43:55: Delete File 'F:/GitHub/bootcamp/notebooks/D3_L3_kMeans_EM_GMM/.ipynb_checkpoints/02-Gaussian-Mixtures-checkpoint.ipynb'
+2019-09-25 18:43:55: Delete Folder 'F:/GitHub/bootcamp/notebooks/D3_L3_kMeans_EM_GMM/.ipynb_checkpoints'
+2019-09-25 18:43:55: Create Folder 'F:/GitHub/bootcamp/.git/objects/02'
+2019-09-25 18:43:55: Create Folder 'F:/GitHub/bootcamp/.git/objects/16'
+2019-09-25 18:43:55: Create Folder 'F:/GitHub/bootcamp/.git/objects/1a'
+2019-09-25 18:43:55: Create Folder 'F:/GitHub/bootcamp/.git/objects/39'
+2019-09-25 18:43:55: Create Folder 'F:/GitHub/bootcamp/.git/objects/3d'
+2019-09-25 18:43:55: Create Folder 'F:/GitHub/bootcamp/.git/objects/56'
+2019-09-25 18:43:55: Create Folder 'F:/GitHub/bootcamp/.git/objects/7b'
+2019-09-25 18:43:55: Create Folder 'F:/GitHub/bootcamp/.git/objects/7d'
+2019-09-25 18:43:55: Create Folder 'F:/GitHub/bootcamp/.git/objects/87'
+2019-09-25 18:43:55: Create Folder 'F:/GitHub/bootcamp/.git/objects/9e'
+2019-09-25 18:43:55: Create Folder 'F:/GitHub/bootcamp/.git/objects/ac'
+2019-09-25 18:43:55: Create Folder 'F:/GitHub/bootcamp/.git/objects/af'
+2019-09-25 18:43:55: Create Folder 'F:/GitHub/bootcamp/.git/objects/bc'
+2019-09-25 18:43:55: Create Folder 'F:/GitHub/bootcamp/.git/objects/e0'
+2019-09-25 18:43:55: Create Folder 'F:/GitHub/bootcamp/.git/objects/f0'
+2019-09-25 18:43:55: Create Folder 'F:/GitHub/bootcamp/.git/objects/fc'
+2019-09-25 18:43:55: Copy Over 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/COMMIT_EDITMSG' -> 'F:/GitHub/bootcamp/.git/COMMIT_EDITMSG' (6)
+2019-09-25 18:43:55: Copy Over 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/FETCH_HEAD' -> 'F:/GitHub/bootcamp/.git/FETCH_HEAD' (98)
+2019-09-25 18:43:55: Copy Over 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/index' -> 'F:/GitHub/bootcamp/.git/index' (39,178)
+2019-09-25 18:43:55: Copy Over 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/logs/HEAD' -> 'F:/GitHub/bootcamp/.git/logs/HEAD' (3,498)
+2019-09-25 18:43:55: Copy Over 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/logs/refs/heads/master' -> 'F:/GitHub/bootcamp/.git/logs/refs/heads/master' (3,498)
+2019-09-25 18:43:55: Copy Over 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/logs/refs/remotes/origin/master' -> 'F:/GitHub/bootcamp/.git/logs/refs/remotes/origin/master' (2,959)
+2019-09-25 18:43:55: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/01/3425b9c5a66d693ab1df71e9958aafaa93a65f' -> 'F:/GitHub/bootcamp/.git/objects/01/3425b9c5a66d693ab1df71e9958aafaa93a65f' (60,812)
+2019-09-25 18:43:55: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/01/7e64f2267c122a94635fe3af8dc03c86dcb63e' -> 'F:/GitHub/bootcamp/.git/objects/01/7e64f2267c122a94635fe3af8dc03c86dcb63e' (113,792)
+2019-09-25 18:43:55: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/02/5c156f3bdd67947aef6dbfe93f4dc11dfd70f9' -> 'F:/GitHub/bootcamp/.git/objects/02/5c156f3bdd67947aef6dbfe93f4dc11dfd70f9' (292)
+2019-09-25 18:43:55: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/03/a20da9f3ac9027b152ba44e4b0b5a39e54e173' -> 'F:/GitHub/bootcamp/.git/objects/03/a20da9f3ac9027b152ba44e4b0b5a39e54e173' (664)
+2019-09-25 18:43:55: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/09/b8ab5f9339fa5666355cb85c9e8e9111a8ea6c' -> 'F:/GitHub/bootcamp/.git/objects/09/b8ab5f9339fa5666355cb85c9e8e9111a8ea6c' (6,210)
+2019-09-25 18:43:55: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/0f/3b15aa985c1c3d476d89cadbeee5bbe611320b' -> 'F:/GitHub/bootcamp/.git/objects/0f/3b15aa985c1c3d476d89cadbeee5bbe611320b' (1,024)
+2019-09-25 18:43:55: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/15/c05ae7dce6f7a6b8141dcbc0a66692fec483b3' -> 'F:/GitHub/bootcamp/.git/objects/15/c05ae7dce6f7a6b8141dcbc0a66692fec483b3' (114,913)
+2019-09-25 18:43:55: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/16/fc4df0c80e00619f634acdabed523f3fc068f7' -> 'F:/GitHub/bootcamp/.git/objects/16/fc4df0c80e00619f634acdabed523f3fc068f7' (219,463)
+2019-09-25 18:43:55: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/1a/838bb9e573aab67f1f1eaadb3075dddc1ef6fc' -> 'F:/GitHub/bootcamp/.git/objects/1a/838bb9e573aab67f1f1eaadb3075dddc1ef6fc' (125)
+2019-09-25 18:43:55: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/1b/f864035d3606a7f316111776b80f4ce6faf242' -> 'F:/GitHub/bootcamp/.git/objects/1b/f864035d3606a7f316111776b80f4ce6faf242' (11,976)
+2019-09-25 18:43:55: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/20/2e129ab071d3258552cdf0e611f0dba0884ecc' -> 'F:/GitHub/bootcamp/.git/objects/20/2e129ab071d3258552cdf0e611f0dba0884ecc' (13,569)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/21/b790f921484406112f767fef5a93d4d85b0a44' -> 'F:/GitHub/bootcamp/.git/objects/21/b790f921484406112f767fef5a93d4d85b0a44' (19,422)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/24/b0aa213d6e29299a3f6f2546fddba0e10cf341' -> 'F:/GitHub/bootcamp/.git/objects/24/b0aa213d6e29299a3f6f2546fddba0e10cf341' (177)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/29/de2fbdadbf9b7b986fbfbc96291a4763b16e65' -> 'F:/GitHub/bootcamp/.git/objects/29/de2fbdadbf9b7b986fbfbc96291a4763b16e65' (11,032)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/2b/2b1d056c769bbfed070049ca4cd79e5dc2732c' -> 'F:/GitHub/bootcamp/.git/objects/2b/2b1d056c769bbfed070049ca4cd79e5dc2732c' (50,485)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/2e/ece304e81968d212ed6211255f9303d568a479' -> 'F:/GitHub/bootcamp/.git/objects/2e/ece304e81968d212ed6211255f9303d568a479' (8,163)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/39/4bb01d55092661b052b4b58746f96307c154fe' -> 'F:/GitHub/bootcamp/.git/objects/39/4bb01d55092661b052b4b58746f96307c154fe' (9,755)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/3d/d829a10306fb5b1232c5c4a9d97973269b9eed' -> 'F:/GitHub/bootcamp/.git/objects/3d/d829a10306fb5b1232c5c4a9d97973269b9eed' (182,637)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/40/89ff172229f9799743d8c411a8752e9e6a7fc7' -> 'F:/GitHub/bootcamp/.git/objects/40/89ff172229f9799743d8c411a8752e9e6a7fc7' (199)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/4a/c3cc1021e2e4f7543f8c01d0e0eb3a0ae86e56' -> 'F:/GitHub/bootcamp/.git/objects/4a/c3cc1021e2e4f7543f8c01d0e0eb3a0ae86e56' (22,754)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/4f/b80981b50b46b8f52b8296e993aea0d7158f5a' -> 'F:/GitHub/bootcamp/.git/objects/4f/b80981b50b46b8f52b8296e993aea0d7158f5a' (5,486)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/50/a24bd3d8ecfd1bbd34fa3e008a8ef3481f20cf' -> 'F:/GitHub/bootcamp/.git/objects/50/a24bd3d8ecfd1bbd34fa3e008a8ef3481f20cf' (659)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/56/c6edc3fed4ce7e7e7cc4b535ad603244ba6ff9' -> 'F:/GitHub/bootcamp/.git/objects/56/c6edc3fed4ce7e7e7cc4b535ad603244ba6ff9' (166)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/5e/34948f7e0259c6c21f7147b51d39f665dd2cb3' -> 'F:/GitHub/bootcamp/.git/objects/5e/34948f7e0259c6c21f7147b51d39f665dd2cb3' (5,374)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/60/784cbe830eea7c6c35b1ef4e00e9cd7cc82caa' -> 'F:/GitHub/bootcamp/.git/objects/60/784cbe830eea7c6c35b1ef4e00e9cd7cc82caa' (155,950)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/62/157827e6e79594b12cb772a112e9b9b005109a' -> 'F:/GitHub/bootcamp/.git/objects/62/157827e6e79594b12cb772a112e9b9b005109a' (120,472)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/64/075ff15f3e95357b86b0d59171ed5657fb97c4' -> 'F:/GitHub/bootcamp/.git/objects/64/075ff15f3e95357b86b0d59171ed5657fb97c4' (10,239)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/73/6f25a0f51cc6d6d525f6cb8243b2ed24b161eb' -> 'F:/GitHub/bootcamp/.git/objects/73/6f25a0f51cc6d6d525f6cb8243b2ed24b161eb' (199)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/7b/e22a560cea2b1454f2b037cb71031a94c8f99b' -> 'F:/GitHub/bootcamp/.git/objects/7b/e22a560cea2b1454f2b037cb71031a94c8f99b' (30,291)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/7c/c82f414667a916f2005fee212ddf9971bb5d1f' -> 'F:/GitHub/bootcamp/.git/objects/7c/c82f414667a916f2005fee212ddf9971bb5d1f' (215)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/7d/3a6741155cfdcde56bdf74258b12151cf32903' -> 'F:/GitHub/bootcamp/.git/objects/7d/3a6741155cfdcde56bdf74258b12151cf32903' (285)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/81/0f293b58d8aef117f6b841af8bbb05558ce7bd' -> 'F:/GitHub/bootcamp/.git/objects/81/0f293b58d8aef117f6b841af8bbb05558ce7bd' (66)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/86/5488e157b4ea381a7c5cda70b945775dc9d851' -> 'F:/GitHub/bootcamp/.git/objects/86/5488e157b4ea381a7c5cda70b945775dc9d851' (168)
+2019-09-25 18:43:56: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/86/cb979b7aa7f0b4e5c8ed5fabc6faf2d4a9ce7d' -> 'F:/GitHub/bootcamp/.git/objects/86/cb979b7aa7f0b4e5c8ed5fabc6faf2d4a9ce7d' (34,248)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/86/cc0129a35c12e5d47e4ef4590ae89830ee7405' -> 'F:/GitHub/bootcamp/.git/objects/86/cc0129a35c12e5d47e4ef4590ae89830ee7405' (664)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/87/3f13d809e17dd8d5d84f94760b7a8e32c2591a' -> 'F:/GitHub/bootcamp/.git/objects/87/3f13d809e17dd8d5d84f94760b7a8e32c2591a' (33,650)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/8b/190e30764f232c4aad72d0fa1fc9dd4f83180f' -> 'F:/GitHub/bootcamp/.git/objects/8b/190e30764f232c4aad72d0fa1fc9dd4f83180f' (54,756)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/8e/82afe03c2c76d2979e2228e37f04ad85a49ead' -> 'F:/GitHub/bootcamp/.git/objects/8e/82afe03c2c76d2979e2228e37f04ad85a49ead' (284)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/8e/b41bd54023a210fe62ac2f4de9ea142befcf0c' -> 'F:/GitHub/bootcamp/.git/objects/8e/b41bd54023a210fe62ac2f4de9ea142befcf0c' (89,751)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/8e/d5d4725bdf478f4f798936f68adc1ae8c1938d' -> 'F:/GitHub/bootcamp/.git/objects/8e/d5d4725bdf478f4f798936f68adc1ae8c1938d' (285)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/91/a1479e8817ce8c6d7c6d9c1173c674dbdfeeae' -> 'F:/GitHub/bootcamp/.git/objects/91/a1479e8817ce8c6d7c6d9c1173c674dbdfeeae' (37,681)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/95/d01eb82443909af51b75b336e0a8423af31b86' -> 'F:/GitHub/bootcamp/.git/objects/95/d01eb82443909af51b75b336e0a8423af31b86' (1,194)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/9c/0a7e4bc77ee5a812146dfbb29d2c9a4b24d4bf' -> 'F:/GitHub/bootcamp/.git/objects/9c/0a7e4bc77ee5a812146dfbb29d2c9a4b24d4bf' (154,264)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/9e/5b4a5bdc79a0cc33f510711afd04cf7000b340' -> 'F:/GitHub/bootcamp/.git/objects/9e/5b4a5bdc79a0cc33f510711afd04cf7000b340' (28,493)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/a0/e7376cb833fb0bd56b5650dfb2d79b8fd068e5' -> 'F:/GitHub/bootcamp/.git/objects/a0/e7376cb833fb0bd56b5650dfb2d79b8fd068e5' (119)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/a5/6a42eac109a043cb1942d124ec7e6fb1f2e61b' -> 'F:/GitHub/bootcamp/.git/objects/a5/6a42eac109a043cb1942d124ec7e6fb1f2e61b' (396,920)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/a7/167b6a66d9c0da4f26e3d370bee1db2dafcf6d' -> 'F:/GitHub/bootcamp/.git/objects/a7/167b6a66d9c0da4f26e3d370bee1db2dafcf6d' (1,624)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/ac/88b593b569be8de7e15155fc207f00125598e3' -> 'F:/GitHub/bootcamp/.git/objects/ac/88b593b569be8de7e15155fc207f00125598e3' (37,276)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/ad/c39bd736202fecebe2fceffac5f60e955f80f6' -> 'F:/GitHub/bootcamp/.git/objects/ad/c39bd736202fecebe2fceffac5f60e955f80f6' (1,334)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/af/cf773a895ce308786269c7799a886cf3dd43b0' -> 'F:/GitHub/bootcamp/.git/objects/af/cf773a895ce308786269c7799a886cf3dd43b0' (29,324)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/b3/239e992754bf4a885c73f31624d9d393aff2ae' -> 'F:/GitHub/bootcamp/.git/objects/b3/239e992754bf4a885c73f31624d9d393aff2ae' (43,437)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/b7/d65ebfb5bcc06e3b2f7b2f794330734e4043d3' -> 'F:/GitHub/bootcamp/.git/objects/b7/d65ebfb5bcc06e3b2f7b2f794330734e4043d3' (28,905)
+2019-09-25 18:43:57: Copy Over 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/b9/43703df7f9842d969af73e31950d75ae032e0e' -> 'F:/GitHub/bootcamp/.git/objects/b9/43703df7f9842d969af73e31950d75ae032e0e' (55)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/bc/1db5b760f3ec28b97520129321e137546741b0' -> 'F:/GitHub/bootcamp/.git/objects/bc/1db5b760f3ec28b97520129321e137546741b0' (137)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/bf/d2dc5ef63b8fedc26e7e34b9782c05c9646413' -> 'F:/GitHub/bootcamp/.git/objects/bf/d2dc5ef63b8fedc26e7e34b9782c05c9646413' (256)
+2019-09-25 18:43:57: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/c0/51c549fac5055e87842f96a76ff9ee29318336' -> 'F:/GitHub/bootcamp/.git/objects/c0/51c549fac5055e87842f96a76ff9ee29318336' (47,574)
+2019-09-25 18:43:58: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/c2/a58b165dae356c17644298e73231aadd96c85f' -> 'F:/GitHub/bootcamp/.git/objects/c2/a58b165dae356c17644298e73231aadd96c85f' (431,624)
+2019-09-25 18:43:58: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/c3/7e3e6472f73c3ed3a4e1ad3fbc062ac39a6e6f' -> 'F:/GitHub/bootcamp/.git/objects/c3/7e3e6472f73c3ed3a4e1ad3fbc062ac39a6e6f' (6,518)
+2019-09-25 18:43:58: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/c9/50259b5344c8a6d9b388d1584f9b27bbd3dd46' -> 'F:/GitHub/bootcamp/.git/objects/c9/50259b5344c8a6d9b388d1584f9b27bbd3dd46' (164)
+2019-09-25 18:43:58: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/d0/e4cffd77d585c7a7f6a448c23f65a85b58afce' -> 'F:/GitHub/bootcamp/.git/objects/d0/e4cffd77d585c7a7f6a448c23f65a85b58afce' (119,712)
+2019-09-25 18:43:58: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/d6/a367fb1bc2872278d412af1a97075ddedc3f18' -> 'F:/GitHub/bootcamp/.git/objects/d6/a367fb1bc2872278d412af1a97075ddedc3f18' (6,207)
+2019-09-25 18:43:58: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/d6/df03cab49431534c344755e40c0db18c973840' -> 'F:/GitHub/bootcamp/.git/objects/d6/df03cab49431534c344755e40c0db18c973840' (152)
+2019-09-25 18:43:58: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/e0/5ed45861678deba4e3e11527211f4d7a8d8dee' -> 'F:/GitHub/bootcamp/.git/objects/e0/5ed45861678deba4e3e11527211f4d7a8d8dee' (21,432)
+2019-09-25 18:43:58: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/ed/a93d589ecf3ae3d72cfb5e52a787a6ec34388f' -> 'F:/GitHub/bootcamp/.git/objects/ed/a93d589ecf3ae3d72cfb5e52a787a6ec34388f' (129)
+2019-09-25 18:43:58: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/ed/cfece92152cdbab1bdb195b4b349b275569855' -> 'F:/GitHub/bootcamp/.git/objects/ed/cfece92152cdbab1bdb195b4b349b275569855' (35,544)
+2019-09-25 18:43:58: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/f0/6991f6e0e5ff66c8941c2b91b756d71de1a0c1' -> 'F:/GitHub/bootcamp/.git/objects/f0/6991f6e0e5ff66c8941c2b91b756d71de1a0c1' (5,371)
+2019-09-25 18:43:58: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/f6/82f261e435b7b219b0b4075da218827a39af91' -> 'F:/GitHub/bootcamp/.git/objects/f6/82f261e435b7b219b0b4075da218827a39af91' (42,308)
+2019-09-25 18:43:58: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/f9/45b5e6626bf048eb5065f0aac050dbed9cd9ba' -> 'F:/GitHub/bootcamp/.git/objects/f9/45b5e6626bf048eb5065f0aac050dbed9cd9ba' (5,608)
+2019-09-25 18:43:58: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/fb/1cbda34ccaac927bdde060073683a1a58fcba3' -> 'F:/GitHub/bootcamp/.git/objects/fb/1cbda34ccaac927bdde060073683a1a58fcba3' (166)
+2019-09-25 18:43:58: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/fc/dd21a6f377be0943af861bb918317316569e0a' -> 'F:/GitHub/bootcamp/.git/objects/fc/dd21a6f377be0943af861bb918317316569e0a' (7,445)
+2019-09-25 18:43:58: Copy Over 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/refs/heads/master' -> 'F:/GitHub/bootcamp/.git/refs/heads/master' (41)
+2019-09-25 18:43:58: Copy Over 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/refs/remotes/origin/master' -> 'F:/GitHub/bootcamp/.git/refs/remotes/origin/master' (41)
+2019-09-25 18:43:58: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/itinerary/itinerary - D3.pdf' -> 'F:/GitHub/bootcamp/itinerary/itinerary - D3.pdf' (455,698)
+2019-09-25 18:43:58: == Sync Complete. Time: 00:00:04, Speed: 4.08 MB/s, OK: 1,076, Errors: 0
+2019-09-25 18:43:58: 
