@@ -1,0 +1,78 @@
+2019-09-26 19:05:19: == Sync Started by User Command
+2019-09-26 19:05:19: Create Folder 'F:/GitHub/bootcamp/.git/objects/1e'
+2019-09-26 19:05:19: Create Folder 'F:/GitHub/bootcamp/.git/objects/27'
+2019-09-26 19:05:19: Create Folder 'F:/GitHub/bootcamp/.git/objects/e9'
+2019-09-26 19:05:19: Create Folder 'F:/GitHub/bootcamp/.git/objects/eb'
+2019-09-26 19:05:19: Create Folder 'F:/GitHub/bootcamp/notebooks/D4_L1_Calc_and_Gradient_Descent'
+2019-09-26 19:05:19: Create Folder 'F:/GitHub/bootcamp/notebooks/D4_L1_Calc_and_Gradient_Descent/figures'
+2019-09-26 19:05:19: Create Folder 'F:/GitHub/bootcamp/notebooks/D4_L2_Linear_Regression'
+2019-09-26 19:05:20: Create Folder 'F:/GitHub/bootcamp/notebooks/D4_L2_Linear_Regression/data'
+2019-09-26 19:05:20: Create Folder 'F:/GitHub/bootcamp/notebooks/D4_L2_Linear_Regression/figures'
+2019-09-26 19:05:20: Create Folder 'F:/GitHub/bootcamp/notebooks/D4_L3_Principle_Component_Analysis'
+2019-09-26 19:05:20: Create Folder 'F:/GitHub/bootcamp/notebooks/D4_L3_Principle_Component_Analysis/figures'
+2019-09-26 19:05:20: Create Folder 'F:/GitHub/bootcamp/notebooks/D4_L4_Manifold_Learning'
+2019-09-26 19:05:20: Create Folder 'F:/GitHub/bootcamp/notebooks/D4_L4_Manifold_Learning/figures'
+2019-09-26 19:05:20: Copy Over 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/COMMIT_EDITMSG' -> 'F:/GitHub/bootcamp/.git/COMMIT_EDITMSG' (6)
+2019-09-26 19:05:20: Copy Over 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/FETCH_HEAD' -> 'F:/GitHub/bootcamp/.git/FETCH_HEAD' (98)
+2019-09-26 19:05:20: Copy Over 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/index' -> 'F:/GitHub/bootcamp/.git/index' (42,443)
+2019-09-26 19:05:20: Copy Over 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/logs/HEAD' -> 'F:/GitHub/bootcamp/.git/logs/HEAD' (3,665)
+2019-09-26 19:05:20: Copy Over 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/logs/refs/heads/master' -> 'F:/GitHub/bootcamp/.git/logs/refs/heads/master' (3,665)
+2019-09-26 19:05:20: Copy Over 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/logs/refs/remotes/origin/master' -> 'F:/GitHub/bootcamp/.git/logs/refs/remotes/origin/master' (3,127)
+2019-09-26 19:05:20: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/10/9eb4bbe66ae768db9ff0a920f5fe81ce5e725a' -> 'F:/GitHub/bootcamp/.git/objects/10/9eb4bbe66ae768db9ff0a920f5fe81ce5e725a' (27,217)
+2019-09-26 19:05:20: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/17/64efde1bd6130f5eddb748480ef659e68f14af' -> 'F:/GitHub/bootcamp/.git/objects/17/64efde1bd6130f5eddb748480ef659e68f14af' (170)
+2019-09-26 19:05:20: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/1b/21b0052b55a05401354da8cba34839ce7f9017' -> 'F:/GitHub/bootcamp/.git/objects/1b/21b0052b55a05401354da8cba34839ce7f9017' (8,121)
+2019-09-26 19:05:20: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/1e/dfe61ae267725553dc9e7c72be9f00b3cb2e57' -> 'F:/GitHub/bootcamp/.git/objects/1e/dfe61ae267725553dc9e7c72be9f00b3cb2e57' (9,017)
+2019-09-26 19:05:20: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/27/9a985e6b014526a41378cc09cd32e0a193d0c3' -> 'F:/GitHub/bootcamp/.git/objects/27/9a985e6b014526a41378cc09cd32e0a193d0c3' (7,441)
+2019-09-26 19:05:20: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/2d/447e282b4f23c32eaa0b3da1ad124c37e0bc81' -> 'F:/GitHub/bootcamp/.git/objects/2d/447e282b4f23c32eaa0b3da1ad124c37e0bc81' (102)
+2019-09-26 19:05:20: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/35/f893f1c64a3d98f6287e5285db53595525ab5b' -> 'F:/GitHub/bootcamp/.git/objects/35/f893f1c64a3d98f6287e5285db53595525ab5b' (114)
+2019-09-26 19:05:20: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/41/fc503cdd86a6ebceb5d8e4b7fbd94df2a3b51c' -> 'F:/GitHub/bootcamp/.git/objects/41/fc503cdd86a6ebceb5d8e4b7fbd94df2a3b51c' (26,866)
+2019-09-26 19:05:20: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/4c/821e13e3185f656f5d50ae1fbc0f2b4daed2b8' -> 'F:/GitHub/bootcamp/.git/objects/4c/821e13e3185f656f5d50ae1fbc0f2b4daed2b8' (144)
+2019-09-26 19:05:20: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/4e/46feba63158a8709efe0bda0b26795ce07465a' -> 'F:/GitHub/bootcamp/.git/objects/4e/46feba63158a8709efe0bda0b26795ce07465a' (431,653)
+2019-09-26 19:05:20: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/5c/7bd4ea2eba3e099ecc66f258eae0599765cd6a' -> 'F:/GitHub/bootcamp/.git/objects/5c/7bd4ea2eba3e099ecc66f258eae0599765cd6a' (815)
+2019-09-26 19:05:20: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/5f/071ab448fc22111970464551c764a448de77dd' -> 'F:/GitHub/bootcamp/.git/objects/5f/071ab448fc22111970464551c764a448de77dd' (65)
+2019-09-26 19:05:20: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/61/02e58610c47e17440df483daaa0981258aa9ac' -> 'F:/GitHub/bootcamp/.git/objects/61/02e58610c47e17440df483daaa0981258aa9ac' (121,629)
+2019-09-26 19:05:20: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/65/8a5024533a7001a00eee0517527687ef13ee67' -> 'F:/GitHub/bootcamp/.git/objects/65/8a5024533a7001a00eee0517527687ef13ee67' (3,636)
+2019-09-26 19:05:20: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/67/386ecf1f702c9fbebff21c9a294ea089ae6c85' -> 'F:/GitHub/bootcamp/.git/objects/67/386ecf1f702c9fbebff21c9a294ea089ae6c85' (144)
+2019-09-26 19:05:20: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/68/0d221a96e5a9ee396de1bd45fd4e5c0eed84ca' -> 'F:/GitHub/bootcamp/.git/objects/68/0d221a96e5a9ee396de1bd45fd4e5c0eed84ca' (30,844)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/6c/b14097f0a45429ca23921a46ba02d65a4451e1' -> 'F:/GitHub/bootcamp/.git/objects/6c/b14097f0a45429ca23921a46ba02d65a4451e1' (198,096)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/77/0a9a4fb42d6e8b0bf552e96bbd8447a13b4925' -> 'F:/GitHub/bootcamp/.git/objects/77/0a9a4fb42d6e8b0bf552e96bbd8447a13b4925' (58,413)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/94/e2833ae3a217e4b5b28fae107e616e4c3ec5a6' -> 'F:/GitHub/bootcamp/.git/objects/94/e2833ae3a217e4b5b28fae107e616e4c3ec5a6' (13,163)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/9e/adc01ff9a20cd5ac199f89f6e3ffca1e2968fe' -> 'F:/GitHub/bootcamp/.git/objects/9e/adc01ff9a20cd5ac199f89f6e3ffca1e2968fe' (6,080)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/a8/730c16763c4c33ecac78de89c5d69a18e0d51d' -> 'F:/GitHub/bootcamp/.git/objects/a8/730c16763c4c33ecac78de89c5d69a18e0d51d' (554,527)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/b1/2e397e2e548b2d47f7e27c7f75648355bda43a' -> 'F:/GitHub/bootcamp/.git/objects/b1/2e397e2e548b2d47f7e27c7f75648355bda43a' (178)
+2019-09-26 19:05:21: Copy Over 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/b9/43703df7f9842d969af73e31950d75ae032e0e' -> 'F:/GitHub/bootcamp/.git/objects/b9/43703df7f9842d969af73e31950d75ae032e0e' (55)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/bd/b8646068a57082cc698ec7cffa473cc26aa0f4' -> 'F:/GitHub/bootcamp/.git/objects/bd/b8646068a57082cc698ec7cffa473cc26aa0f4' (184,130)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/c1/9c4f3e8e6a63b3efbafd790e8d5b0aeefef130' -> 'F:/GitHub/bootcamp/.git/objects/c1/9c4f3e8e6a63b3efbafd790e8d5b0aeefef130' (29,716)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/c1/da33de7d1b389756610ab6d41c7c0dd0ab7ab0' -> 'F:/GitHub/bootcamp/.git/objects/c1/da33de7d1b389756610ab6d41c7c0dd0ab7ab0' (165)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/c7/87d9ecbc85f3c1cba8eee49184ae3d17cacd0c' -> 'F:/GitHub/bootcamp/.git/objects/c7/87d9ecbc85f3c1cba8eee49184ae3d17cacd0c' (161)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/e9/562f66d71109b8ecf76fef7aaec5e49b50e869' -> 'F:/GitHub/bootcamp/.git/objects/e9/562f66d71109b8ecf76fef7aaec5e49b50e869' (154,827)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/ea/d43eb5d482b20244e4c3d8dabeed7827f9d091' -> 'F:/GitHub/bootcamp/.git/objects/ea/d43eb5d482b20244e4c3d8dabeed7827f9d091' (134)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/eb/eec9d2ff6769e4c7db75c8db947029c984ce30' -> 'F:/GitHub/bootcamp/.git/objects/eb/eec9d2ff6769e4c7db75c8db947029c984ce30' (145)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/f1/f6bab5bc1a8b9f46fe97c07b2f8c602842bbe0' -> 'F:/GitHub/bootcamp/.git/objects/f1/f6bab5bc1a8b9f46fe97c07b2f8c602842bbe0' (139)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/f9/3e619d87ec77db28857c394bb9496fe185f04c' -> 'F:/GitHub/bootcamp/.git/objects/f9/3e619d87ec77db28857c394bb9496fe185f04c' (127)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/fd/c678f2619bf3d7d86c3b7f0750fc3d726afd01' -> 'F:/GitHub/bootcamp/.git/objects/fd/c678f2619bf3d7d86c3b7f0750fc3d726afd01' (27,887)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/objects/fe/cc68dbe0ff0eb4a6c9c2b214924750ee43ac00' -> 'F:/GitHub/bootcamp/.git/objects/fe/cc68dbe0ff0eb4a6c9c2b214924750ee43ac00' (316)
+2019-09-26 19:05:21: Copy Over 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/refs/heads/master' -> 'F:/GitHub/bootcamp/.git/refs/heads/master' (41)
+2019-09-26 19:05:21: Copy Over 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/.git/refs/remotes/origin/master' -> 'F:/GitHub/bootcamp/.git/refs/remotes/origin/master' (41)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/itinerary/itinerary - D4.pdf' -> 'F:/GitHub/bootcamp/itinerary/itinerary - D4.pdf' (455,448)
+2019-09-26 19:05:21: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L1_Calc_and_Gradient_Descent/figures/GradDescent.jpg' -> 'F:/GitHub/bootcamp/notebooks/D4_L1_Calc_and_Gradient_Descent/figures/GradDescent.jpg' (73,118)
+2019-09-26 19:05:22: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L1_Calc_and_Gradient_Descent/figures/GradDescentMult.png' -> 'F:/GitHub/bootcamp/notebooks/D4_L1_Calc_and_Gradient_Descent/figures/GradDescentMult.png' (198,564)
+2019-09-26 19:05:22: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L1_Calc_and_Gradient_Descent/figures/LearnRate.png' -> 'F:/GitHub/bootcamp/notebooks/D4_L1_Calc_and_Gradient_Descent/figures/LearnRate.png' (31,153)
+2019-09-26 19:05:22: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L1_Calc_and_Gradient_Descent/Gradient Descent Optimization.ipynb' -> 'F:/GitHub/bootcamp/notebooks/D4_L1_Calc_and_Gradient_Descent/Gradient Descent Optimization.ipynb' (24,939)
+2019-09-26 19:05:22: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L1_Calc_and_Gradient_Descent/quiz.txt' -> 'F:/GitHub/bootcamp/notebooks/D4_L1_Calc_and_Gradient_Descent/quiz.txt' (39)
+2019-09-26 19:05:22: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L2_Linear_Regression/data/BicycleWeather.csv' -> 'F:/GitHub/bootcamp/notebooks/D4_L2_Linear_Regression/data/BicycleWeather.csv' (234,945)
+2019-09-26 19:05:22: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L2_Linear_Regression/data/FremontBridge.csv' -> 'F:/GitHub/bootcamp/notebooks/D4_L2_Linear_Regression/data/FremontBridge.csv' (1,719,802)
+2019-09-26 19:05:22: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L2_Linear_Regression/figures/05.06-gaussian-basis.png' -> 'F:/GitHub/bootcamp/notebooks/D4_L2_Linear_Regression/figures/05.06-gaussian-basis.png' (30,865)
+2019-09-26 19:05:22: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L2_Linear_Regression/figures/linear regression.gif' -> 'F:/GitHub/bootcamp/notebooks/D4_L2_Linear_Regression/figures/linear regression.gif' (127,981)
+2019-09-26 19:05:22: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L2_Linear_Regression/Linear-Regression.ipynb' -> 'F:/GitHub/bootcamp/notebooks/D4_L2_Linear_Regression/Linear-Regression.ipynb' (28,318)
+2019-09-26 19:05:22: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L2_Linear_Regression/quiz.txt' -> 'F:/GitHub/bootcamp/notebooks/D4_L2_Linear_Regression/quiz.txt' (39)
+2019-09-26 19:05:22: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L3_Principle_Component_Analysis/figures/05.09-digits-pca-components.png' -> 'F:/GitHub/bootcamp/notebooks/D4_L3_Principle_Component_Analysis/figures/05.09-digits-pca-components.png' (15,015)
+2019-09-26 19:05:22: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L3_Principle_Component_Analysis/figures/05.09-digits-pixel-components.png' -> 'F:/GitHub/bootcamp/notebooks/D4_L3_Principle_Component_Analysis/figures/05.09-digits-pixel-components.png' (7,378)
+2019-09-26 19:05:22: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L3_Principle_Component_Analysis/figures/05.09-PCA-rotation.png' -> 'F:/GitHub/bootcamp/notebooks/D4_L3_Principle_Component_Analysis/figures/05.09-PCA-rotation.png' (30,758)
+2019-09-26 19:05:22: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L3_Principle_Component_Analysis/Principal-Component-Analysis.ipynb' -> 'F:/GitHub/bootcamp/notebooks/D4_L3_Principle_Component_Analysis/Principal-Component-Analysis.ipynb' (26,013)
+2019-09-26 19:05:22: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L3_Principle_Component_Analysis/quiz.txt' -> 'F:/GitHub/bootcamp/notebooks/D4_L3_Principle_Component_Analysis/quiz.txt' (39)
+2019-09-26 19:05:22: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L4_Manifold_Learning/figures/05.10-LLE-vs-MDS.png' -> 'F:/GitHub/bootcamp/notebooks/D4_L4_Manifold_Learning/figures/05.10-LLE-vs-MDS.png' (159,433)
+2019-09-26 19:05:22: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L4_Manifold_Learning/Manifold-Learning.ipynb' -> 'F:/GitHub/bootcamp/notebooks/D4_L4_Manifold_Learning/Manifold-Learning.ipynb' (256,541)
+2019-09-26 19:05:22: Copy New 'C:/Users/Dr PFR/Documents/GitHub/dsbc2020/bootcamp/notebooks/D4_L4_Manifold_Learning/quiz.txt' -> 'F:/GitHub/bootcamp/notebooks/D4_L4_Manifold_Learning/quiz.txt' (39)
+2019-09-26 19:05:22: == Sync Complete. Time: 00:00:03, Speed: 1.83 MB/s, OK: 75, Errors: 0
+2019-09-26 19:05:22: 
